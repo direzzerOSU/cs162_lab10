@@ -1,9 +1,12 @@
-/*
-* FibonacciNR.h
-*
-*  Created on: Sep 11, 2010
-*      Author: julian
-*/
+/*********************************************************************
+** Program name: Recursion vs. Iteration Runtime Duration
+** Author: Ryan DiRezze
+** Date: December 2, 2018
+** Description: Defines the class and associated member functions
+   required for calculating the Fibonacci number with iteration (no recursion).
+** Program Source: https://www.codeproject.com/tips/109443/fibonacci-recursive-and-non-recursive-c
+** Clock Source: http://www.cplusplus.com/reference/ctime/clock/
+*********************************************************************/
 
   #ifndef FIBONACCINR_H_
   #define FIBONACCINR_H_

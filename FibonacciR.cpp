@@ -1,12 +1,14 @@
-/*
-* FibonacciClass1.cpp
-* https://www.codeproject.com/tips/109443/fibonacci-recursive-and-non-recursive-c
-*
-*  Created on: Sep 10, 2010
-*      Author: julian
-*/
+/*********************************************************************
+** Program name: Recursion vs. Iteration Runtime Duration
+** Author: Ryan DiRezze
+** Date: December 2, 2018
+** Description: Implements the member functions of the Fibonacci
+   function, using recursion.
+** Program Source: https://www.codeproject.com/tips/109443/fibonacci-recursive-and-non-recursive-c
+** Clock Source: http://www.cplusplus.com/reference/ctime/clock/
+*********************************************************************/
 
-  #include "FibonacciR.h"
+  #include "FibonacciR.hpp"
   #include <iostream>
 
   FibonacciR::FibonacciR() {

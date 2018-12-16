@@ -1,10 +1,12 @@
-/*
-* FibonacciR.hpp
-* https://www.codeproject.com/tips/109443/fibonacci-recursive-and-non-recursive-c
-*
-*  Created on: Sep 10, 2010
-*      Author: julian
-*/
+/*********************************************************************
+** Program name: Recursion vs. Iteration Runtime Duration
+** Author: Ryan DiRezze
+** Date: December 2, 2018
+** Description: Defines the class and associated member functions
+   required for calculating the Fibonacci number with recursion.
+** Program Source: https://www.codeproject.com/tips/109443/fibonacci-recursive-and-non-recursive-c
+** Clock Source: http://www.cplusplus.com/reference/ctime/clock/
+*********************************************************************/
 
   #ifndef FIBONACCIR_H_
   #define FIBONACCIR_H_
